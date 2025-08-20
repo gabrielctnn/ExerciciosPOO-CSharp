@@ -12,7 +12,7 @@ namespace MiniBiblioteca
         private static Biblioteca novaBiblioteca = new Biblioteca();
         static void Main(string[] args)
         {
-            // 9 - Crie uma classe chamada Livro que tenha as propriedades Titulo e Autor.
+            // 5 - Crie uma classe chamada Livro que tenha as propriedades Titulo e Autor.
             // Utilize o encapsulamento para garantir que o título e o autor não sejam vazios. 
             // Decide ir um pouco alem para reforçar as praticas dos outros exercicios tentando implementar um codigo melhor, menos repetitivo e melhorar algumas práticas.
              
