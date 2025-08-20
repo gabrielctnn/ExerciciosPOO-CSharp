@@ -10,7 +10,7 @@ namespace GerenciadorDeTarefas
     {
         static void Main(string[] args)
         {
-            // 5 - Crie uma classe GerenciadorDeTarefas com atributos para armazenar uma lista de tarefas (descrição, data de vencimento).
+            // 4 - Crie uma classe GerenciadorDeTarefas com atributos para armazenar uma lista de tarefas (descrição, data de vencimento).
             // Implemente um construtor e métodos para adicionar, remover e listar tarefas.
             // Adicione um método para verificar se a tarefa deverá ser executada no dia de hoje.
             Menu();
