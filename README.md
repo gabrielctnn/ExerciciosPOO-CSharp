@@ -22,6 +22,15 @@
 
 ###
 
+
+<h3 align="left">🧠 Conceitos de POO aplicados</h3>
+
+###
+
+<p align="left">Classes e Objetos: Estrutura básica de cada projeto, representando entidades do sistema.<br><br>Encapsulamento: Uso de propriedades (get/set) para proteger dados internos das classes.<br><br>Herança: Algumas classes derivam de outras para reaproveitar código e organizar melhor a hierarquia.<br><br>Polimorfismo: Métodos sobrescritos ou sobrecarregados para comportamentos diferentes dependendo do contexto.<br><br>Coleções: Uso de List<T> para armazenar e manipular conjuntos de objetos.</p>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
