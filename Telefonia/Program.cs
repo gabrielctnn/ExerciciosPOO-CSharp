@@ -11,7 +11,7 @@ namespace Telefonia
         AgendaTelefonica agendaTelefonica = new AgendaTelefonica();
         public static void Main(string[] args)
         {
-            // 4 - Crie uma classe AgendaTelefonica com atributos
+            // 7 - Crie uma classe AgendaTelefonica com atributos
             // para armazenar contatos (nome, telefone, e-mail).
             // Implemente um construtor e métodos para adicionar numa lista,
             // remover e buscar contatos.
