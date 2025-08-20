@@ -11,7 +11,7 @@ namespace Estoque
     {
         static void Main(string[] args)
         {
-            //1- Crie uma classe Produto com atributos como nome, preço e quantidade em estoque.
+            //2 - Crie uma classe Produto com atributos como nome, preço e quantidade em estoque.
             // Implemente um construtor e métodos para adicionar e remover itens do estoque.
             Menu();
         }
